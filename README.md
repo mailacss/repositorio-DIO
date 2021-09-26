@@ -1,5 +1,6 @@
-# Repositório do desafio da DIO
+# Desafio da DIO - GitHub
+Repositório criado para desafio do projeto
 
-## Links Úteis:
+### Links Úteis:
 
-[Síntese Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Síntese Markdown](https://www.markdownguide.org/basic-syntax/)
